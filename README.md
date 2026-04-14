@@ -50,3 +50,4 @@ Future Enhancements
 • Add user registration and validation features
 Acknowledgement
 This project was developed as part of an internship task to enhance practical knowledge in software development and system design.
+
